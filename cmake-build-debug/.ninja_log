@@ -1,0 +1,20 @@
+# ninja log v5
+12	806	7570097352805951	build.ninja	8950806a5ba186b4
+30	324	7570096144505890	lab_4_autogen/timestamp	136d37c924d10166
+30	324	7570096144505890	lab_4_autogen/mocs_compilation.cpp	136d37c924d10166
+30	324	7570096144505890	D:/programming/3_sem/lab_4/cmake-build-debug/lab_4_autogen/timestamp	136d37c924d10166
+894	1456	7568716569399291	CMakeFiles/lab_4.dir/Tests/UndirectedGraphTest.cpp.obj	80a0973aef65158c
+30	324	7570096144505890	D:/programming/3_sem/lab_4/cmake-build-debug/lab_4_autogen/mocs_compilation.cpp	136d37c924d10166
+325	483	7570096147099913	CMakeFiles/lab_4.dir/lab_4_autogen/mocs_compilation.cpp.obj	5444f01cddfa25ef
+887	965	7568716564497572	CMakeFiles/lab_4.dir/Tests/Test.cpp.obj	7156dea3e1da112d
+990	1900	7566052642459692	CMakeFiles/lab_4.dir/Tests/DirectedGraphTest.cpp.obj	8bce44de50da1c20
+2139	7576	7570095342470247	CMakeFiles/lab_4.dir/main.cpp.obj	b8461ac857239cdc
+484	2068	7570096162917870	lab_4.exe	aee12e5535ea9f08
+770	4869	7569563972027817	CMakeFiles/lab_4.dir/HelpfulFunc.cpp.obj	79971e09bd92e5cf
+397	3585	7570051886303301	CMakeFiles/lab_4.dir/Graph.cpp.obj	a115acaed9f6e5cc
+28	1762	7570098514953485	lab_4_autogen/timestamp	136d37c924d10166
+28	1762	7570098514953485	lab_4_autogen/mocs_compilation.cpp	136d37c924d10166
+28	1762	7570098514953485	D:/programming/3_sem/lab_4/cmake-build-debug/lab_4_autogen/timestamp	136d37c924d10166
+28	1762	7570098514953485	D:/programming/3_sem/lab_4/cmake-build-debug/lab_4_autogen/mocs_compilation.cpp	136d37c924d10166
+1773	7129	7570098568576564	CMakeFiles/lab_4.dir/main.cpp.obj	b8461ac857239cdc
+7129	8473	7570098582004096	lab_4.exe	aee12e5535ea9f08
